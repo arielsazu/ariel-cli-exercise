@@ -1,0 +1,129 @@
+ 1050  pwd
+ 1051  cd ..
+ 1052  cd ..
+ 1053  cd ..
+ 1054  cd ..
+ 1055  cd documents
+ 1056  git@github.com:arielsazu/ariel-cli-exercise.git
+ 1057  mkdir ariel-cli-exercise
+ 1058  cd ariel-cli-exercise
+ 1059  git@github.com:arielsazu/ariel-cli-exercise.git
+ 1060  cd ..
+ 1061  git@github.com:arielsazu/ariel-cli-exercise.git
+ 1062  git clone git@github.com:arielsazu/ariel-cli-exercise.git
+ 1063  cd ariel-cli-exercise
+ 1064  mkdir AwesomeProduct
+ 1065  mkdir API
+ 1066  mkdir Assets
+ 1067  mkdir Backend
+ 1068  cd Backend
+ 1069  mkdir Databases
+ 1070  cd Databases
+ 1071  mkdir NoSQL
+ 1072  mkdir Relational
+ 1073  cd ..
+ 1074  pwd
+ 1075  mkdir Scripts
+ 1076  cd Scripts
+ 1077  mkdir NodeJS
+ 1078  touch app.js
+ 1079  ls
+ 1080  cd ..
+ 1081  cd ..
+ 1082  pwd
+ 1083  mkdir AwesomeProduct2
+ 1084  cd AwesomeProduct2
+ 1085  cp /Users/ariel.sanchez/documents/ariel-cli-exercise
+ 1086  cd ~/Users/ariel.sanchez/documents/ariel-cli-exercise ~/Users/ariel.sanchez/documents/ariel-cli-exercise/AwesomeProduct
+ 1087  clear
+ 1088  cd ..
+ 1089  cd ..
+ 1090  ls
+ 1091  cd ariel-cli-exercise
+ 1092  rm AwesomeProduct2
+ 1093  rm -r AwesomeProduct2
+ 1094  mv API AwesomeProduct
+ 1095  mv Assets AwesomeProduct
+ 1096  mv Backend AwesomeProduct
+ 1097  rm Readme.md
+ 1098  cd Backend
+ 1099  pwd
+ 1100  cd AwesomeProduct
+ 1101  cd Backend
+ 1102  cd Scripts
+ 1103  mv app.js NodeJS
+ 1104  cd ..
+ 1105  pwd
+ 1106  mkdir Server
+ 1107  cd Server
+ 1108  mkdir Docker
+ 1109  cd ..
+ 1110  cd ..
+ 1111  mkdir Frontend
+ 1112  mkdir CSS
+ 1113  cd CSS
+ 1114  touch style.css
+ 1115  cd ..
+ 1116  mv CSS Frontend
+ 1117  pwd
+ 1118  cd Frontend
+ 1119  mkdir HTML
+ 1120  cd HTML
+ 1121  touch footer.html
+ 1122  touch header.html
+ 1123  touch index.html
+ 1124  cd ..
+ 1125  pwd
+ 1126  mkdir JavaScript
+ 1127  cd JavaScript
+ 1128  touch script.js
+ 1129  cd ..
+ 1130  pwd
+ 1131  cd ..
+ 1132  mkdir RESTfulAPI
+ 1133  touch api.js
+ 1134  mv api.js RESTfulAPI
+ 1135  pwd
+ 1136  cd ..
+ 1137  zip AwesomeProduct/Frontend/HTML
+ 1138  pwd
+ 1139  cd AwesomeProduct
+ 1140  cd Frontend
+ 1141  zip HTML
+ 1142  pwd
+ 1143  zip -r HTML.zip HTML
+ 1144  mv HTML.zip AwesomeProduct
+ 1145  cd ..
+ 1146  ls
+ 1147  cd Frontend
+ 1148  ls
+ 1149  rm AwesomeProduct
+ 1150  zip -r HTML.zip HTML
+ 1151  pwd
+ 1152  mv HTML.zip /Users/ariel.sanchez/documents/ariel-cli-exercise/AwesomeProduct
+ 1153  pwd
+ 1154  cd HTML
+ 1155  rm header.html
+ 1156  rm footer.html
+ 1157  pwd
+ 1158  cd ..
+ 1159  cd ..
+ 1160  rmdir Assets
+ 1161  pwd
+ 1162  cd Frontend
+ 1163  cd JavaScript
+ 1164  cp script.js /Users/ariel.sanchez/documents/ariel-cli-exercise/AwesomeProduct/Backend/Scripts/NodeJS script.js
+ 1165  pwd
+ 1166  cp script.js /Users/ariel.sanchez/documents/ariel-cli-exercise/AwesomeProduct/Backend/Scripts/NodeJS
+ 1167  echo "Mission Completed\n\n\n\nq\nclear\nMission Completed\! \n"
+ 1168  echo "Mission Completed\n"
+ 1169  echo "Mission Completed/\n"
+ 1170  "Mission Completed "
+ 1171  echo "Mission Completed! ""\n"
+ 1172  echo "Mission Completed""\n"
+ 1173  echo "Mission Completed\n"
+ 1174  echo "Mission Completed! "
+ 1175  pwd
+ 1176  cd ../..
+ 1177  command history 70 >> history.txt
+ 1178  history 70 >> history.txt
